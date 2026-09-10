@@ -54,14 +54,12 @@ kelvin = celcius + 273
 print("Suhu dalam Kelvin adalah", kelvin, "Kelvin")
 
 
-print("\n16Program 3.3 operasi komperasi")
+print("\nProgram 3.3 operasi komperasi")
 #operai komperasi
 #setiap hasil dari operasi komperasi adalah boolean
 #>,<,>=,<=,==,!=,is, is not
-
 a = 4
 b = 2
-
 #lebih besar dari >
 print("=============== lebih besar dari (>)")
 hasil = a > 3
@@ -70,7 +68,6 @@ hasil = b > 3
 print(b,'>',3,'=',hasil)
 hasil = b > 2
 print(b,'>',2,'=',hasil)
-
 #kurang dari <
 print("=============== kurang dari (<)")
 hasil = a < 3
