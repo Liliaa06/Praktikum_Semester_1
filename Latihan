@@ -20,3 +20,4 @@ elif usia >= 60:
     print ("Lansia")
 else:
     print ("Usia tidak valid")
+print ("Terima kasih sudah isi ya!")
